@@ -1,0 +1,36 @@
+# Online-Shopping-System
+Users:-
+1) Admin
+2) Manager
+3) Customer
+
+Usage:-
+a) Admin
+  i) Add manager
+  ii) Delete manager
+  iii) Edit manager
+  iv) View manager
+  v) Search manager
+  vi) Add customer
+  vii) Delete customer
+  viii) Edit customer
+  ix) View customer
+  x) Search customer
+
+b) Manager
+  i) Add product
+  ii) Delete product
+  iii) Edit product
+  iv) View product
+  v) Search product
+  vi) Add order
+  vii) Delete order
+  viii) Edit order
+  ix) View order
+  x) Search order
+ 
+c) Customer
+  i) Saerch product
+  ii) View catalogue
+  iii) Add item to cart
+  iv) Display bill
