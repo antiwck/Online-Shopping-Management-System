@@ -1,0 +1,9 @@
+EDmanager|manager12345|Petro Deniro|Electronic Devices|0128901220
+HAmanager|manager23456|Mark Fishbach|Home Appliances|0163662332
+HBmanager|manager34567|Jose Luis|Health Care and Beauty|0123746876
+GTmanager|manager45678|Clarence Joseph|Gadgets and Toys|0143521425
+HLmanager|manager56789|Melinda Carlo|Home and Lifestyle|0185469696
+MFmanager|manager67890|Deniz Trinam|Mens Fashion|011512686852
+WFmanager|manager78901|Victoria Quintilius|Womens Fashion|0132542684
+SPmanager|manager89012|Ademir Ferdrik|Sports|0148545625
+BTmanager|newpassword|David Dobrik|Babies Toys|0123439898

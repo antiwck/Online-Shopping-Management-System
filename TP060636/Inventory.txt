@@ -1,0 +1,21 @@
+ED213121|Sony WH-1000XM4|7000.00|Electronic Devices|3|5|18|-
+ED123112|Samsung Tab S7|2700.00|Electronic Devices|2|4|9|-
+HA609456|Samsung BESPOKE 1-Door Flex Convertible Refrigerator|5500.00|Home Appliances|1|5|0|-
+HB967829|Hiruscar|19.80|Health Care and Beauty|2|5|22|-
+HB738461|Nature republic aloe vera gel|15.00|Health Care and Beauty|1|3|10|-
+GT208119|Fidget spinner|5.35|Gadgets and Toys|4|2|45|-
+HL847869|Philips Hue a19|120.00|Home and Lifestyle|3|5|12|-
+HA230377|Panasonic NT-H900KSK|209.00|Home Appliances|2|3|5|-
+HL123112|IK Yellow A4|15.00|Home and Lifestyle|1|3|13|-
+MF057390|Suave slim fit 15'|37.00|Mens Fashion|1|4|8|-
+MF698507|Khakis pant slim fit|55.60|Mens Fashion|1|5|10|-
+WF397485|High heels|20.00|Womens Fashion|2|4|16|-
+WF365922|B36M Bozlun|150.00|Womens Fashion|3|3|10|-
+GT831202|EMO: Desktop pet|1234.50|Gadgets and Toys|2|3|1|-
+SP756850|Yonex Voltric LITE 25i|140.00|Sports|4|5|5|-
+SP691971|Vitchelo 30L|180.00|Sports|2|4|10|-
+ED016773|Samsung A51|1100.00|Electronic Devices|2|4|9|-
+ED027752|Samsung Tab S8|2400.00|Electronic Devices|2|3|4|-
+HL007598|Honey|25.80|Home and Lifestyle|4|5|13|24/06/2024
+ED120934|Samsung A32|1000.50|Electronic Devices|2|4|15|-
+HL022320|Leeway Home Entry Dinning Set|280.00|Home and Lifestyle|5|4|11|-

@@ -1,0 +1,8 @@
+wck000000|wckpassword|Wong Chee Kei|01269696969|No. 76 Jalan Usj 11/5, Uep Subang Jaya, 47620|4254527888857301|Debit card
+wck023112|pass121|Aloy Sobeck|0129023459|10 Jln Lumut 50400 Wilayah Persekutuan 50400 Malaysia 50400 Malaysia|4394069326932486|Credit card
+wck120121|sumthing|Jonathan Anderson|0182345678|No. 5, Jalan U Thant, Wilayah Persekutuan 55000|8529988351149647|Debit card
+wck014345|goodguykei|Kei|0123802233|83, Jalan Logo, Taman Best, KL|0703891634472560|Credit card
+wck031736|tomtom|Thomas|0123456711|23, Jalan Bestari, Taman Sentosa 4, 23500, KL|0829867741703843|Debit card
+wck002379|zkucGKpB%Zcu8(Yp|Eli Mengele|0390586011|52 1 Jln Usj 9/5P Taman Seafield Jaya 47620Petaling Jaya 47620 Malaysia 47620 Malaysia|6543942610824386|Credit card
+wck002536|kh^8q#E2g6skbBzv|Ethan More|0340455185|6 Lorong Baru Nilai 8A Bandar Bukit Tinggi 41200 Malaysia|8461969107739554|Debit card
+wck002644|eSUhGARttYuFec%Y|Eric Mcguire|0333720332|No 39 Jalan Todak 2 13700 Seberang Jaya Pulau Pinang Malaysia|6191096314475809 |Debit card

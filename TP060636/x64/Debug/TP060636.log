@@ -1,0 +1,11 @@
+﻿  main.cpp
+E:\OneDrive - Asia Pacific University\University\Degree Year 2\Semester 2\Programming Concepts in C++\Assignment\TP060636\user.h(229,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\OneDrive - Asia Pacific University\University\Degree Year 2\Semester 2\Programming Concepts in C++\Assignment\TP060636\admin_function.h(269,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\OneDrive - Asia Pacific University\University\Degree Year 2\Semester 2\Programming Concepts in C++\Assignment\TP060636\order.h(122,76): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\OneDrive - Asia Pacific University\University\Degree Year 2\Semester 2\Programming Concepts in C++\Assignment\TP060636\order.h(125,76): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\OneDrive - Asia Pacific University\University\Degree Year 2\Semester 2\Programming Concepts in C++\Assignment\TP060636\order.h(128,76): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\OneDrive - Asia Pacific University\University\Degree Year 2\Semester 2\Programming Concepts in C++\Assignment\TP060636\order.h(131,76): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\OneDrive - Asia Pacific University\University\Degree Year 2\Semester 2\Programming Concepts in C++\Assignment\TP060636\order.h(134,76): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\OneDrive - Asia Pacific University\University\Degree Year 2\Semester 2\Programming Concepts in C++\Assignment\TP060636\order.h(236,8): warning C4101: 'newProductPrice': unreferenced local variable
+E:\OneDrive - Asia Pacific University\University\Degree Year 2\Semester 2\Programming Concepts in C++\Assignment\TP060636\manager_function.h(30,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  TP060636.vcxproj -> E:\OneDrive - Asia Pacific University\University\Degree Year 2\Semester 2\Programming Concepts in C++\Assignment\TP060636\x64\Debug\TP060636.exe
